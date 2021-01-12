@@ -36,4 +36,4 @@ Minion mingle is here to match individuals based on shared interests. It offers 
 
 ## Link
 
-https://the-minion-mingle.herokuapp.com/
+https://mingle-minion.herokuapp.com/
